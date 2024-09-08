@@ -1,1 +1,1 @@
-# ML-for-Beginners-Microsoft-
+# ML-for-Beginners (Microsoft)

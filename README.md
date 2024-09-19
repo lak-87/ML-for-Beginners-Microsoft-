@@ -4,7 +4,7 @@ The topics covered
 1.	Introduction to Machine Learning
 2.	Techniques for Machine Learning
 3.	Regression Analysis  
-    * Project - Regional topic: Regression models for pumpkin prices in North America 
+    * Project - Regional topic: Regression models for pumpkin prices in North America </br>
         a. Visualize and clean data in preparation for ML
         b. Build linear and polynomial regression models
         c. Build a logistic regression mode

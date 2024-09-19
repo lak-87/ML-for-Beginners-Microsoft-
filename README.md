@@ -4,7 +4,7 @@ The topics covered
 1.	Introduction to Machine Learning
 2.	Techniques for Machine Learning
 3.	Regression Analysis  
-    * Project - Regional topic: Regression models for pumpkin prices in North America #https://github.com/lak-87/ML-for-Beginners-Microsoft-/upload/main#:~:text=Linear%20and%20Polynomial%20Regression.ipynb</br>
+    * Project - [Regional topic: Regression models for pumpkin prices in North America]https://github.com/lak-87/ML-for-Beginners-Microsoft-/upload/main#:~:text=Linear%20and%20Polynomial%20Regression.ipynb 
       a. Visualize and clean data in preparation for ML</br>
       b. Build linear and polynomial regression models</br>
       c. Build a logistic regression mode</br>

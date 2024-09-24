@@ -7,7 +7,7 @@ The topics covered
     * Project - Regional topic: Regression models for pumpkin prices in North America</br>
       a. Visualize and clean data in preparation for ML</br>
       b. Build linear and polynomial regression models- [Linear and Polynomial Regression.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Linear%20and%20Polynomial%20Regression.ipynb)</br>
-      c. Build a logistic regression mode</br>
+      c. Build a logistic regression mode [Logistic Regresssion.ipynb] (https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Linear%20and%20Polynomial%20Regression.ipynb) </br>
       d. Build a web app to use your trained model
 4.	Classification
      * Project 

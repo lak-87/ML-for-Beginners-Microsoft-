@@ -7,25 +7,25 @@ The topics covered
     * Project - Regional topic: Regression models for pumpkin prices in North America</br>
       a. Visualize and clean data in preparation for ML</br>
       b. Build linear and polynomial regression models- [Linear and Polynomial Regression.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Linear%20and%20Polynomial%20Regression.ipynb)</br>
-      c. Build a logistic regression mode [Logistic Regresssion.ipynb] (https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Linear%20and%20Polynomial%20Regression.ipynb) </br>
+      c. Build a logistic regression mode- [Logistic Regresssion.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Logistic%20Regresssion.ipynb)</br>
       d. Build a web app to use your trained model
 4.	Classification
-     * Project 
-b.	Clean, prep, and visualize your data for classification
-c.	Build a recommender web app using your model
+     * Project - </br>
+      a.	Clean, prep, and visualize your data for classification </br>
+      c.	Build a recommender web app using your model </b>
 5.	Clustering
-a.	Project 
-b.	Clean, prep, and visualize your data; Introduction to clustering
-c.	Explore the K-Means clustering method
+     * Project - </br>
+      a. Clean, prep, and visualize your data; Introduction to clustering </br>
+      b.	Explore the K-Means clustering method </br>
 6.	Introduction to natural language processing
-a.	Learn the basics about NLP by building a simple bot
-b.	Translation and sentiment analysis with Jane Austen
-c.	Project - Sentiment analysis with hotel reviews 1/2
-7.	Time series forecasting
-a.	Project
-b.	Time series forecasting with ARIMA
-c.	Time series forecasting with Support Vector Regressor
-8.	reinforcement learning
-a.	Project
-b.	reinforcement learning with Q-Learning
-c.	Reinforcement learning Gym
+      a.	Learn the basics about NLP by building a simple bot </br>
+      b.	Translation and sentiment analysis with Jane Austen </br>
+      c.	Project - Sentiment analysis with hotel reviews 1/2 </br>
+8.	Time series forecasting 
+    * Project
+      a.	Time series forecasting with ARIMA
+      b.	Time series forecasting with Support Vector Regressor
+9.	reinforcement learning   
+    * Project
+      a.	reinforcement learning with Q-Learning
+      b.	Reinforcement learning Gym

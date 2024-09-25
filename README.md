@@ -8,7 +8,7 @@ The topics covered
       a. Visualize and clean data in preparation for ML</br>
       b. Build linear and polynomial regression models- [Linear and Polynomial Regression.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Linear%20and%20Polynomial%20Regression.ipynb)</br>
       c. Build a logistic regression mode- [Logistic Regresssion.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Logistic%20Regresssion.ipynb)</br>
-      d. Build a web app to use your trained model
+      d. Build a web app usinf flask - [Webapp](https://github.com/lak-87/ML-for-Beginners-Microsoft-/tree/main/webApp)
 4.	Classification
      * Project - </br>
       a.	Clean, prep, and visualize your data for classification </br>

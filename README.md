@@ -19,14 +19,15 @@ The topics covered
       b. Clean, preprocess, and visualize data </br>
       b.	Explore the K-Means clustering method [Clustering.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Clustering.ipynb)</br>
 6.	Introduction to natural language processing
-      a.	Learn the basics about NLP by building a simple bot </br>
-      b.	Translation and sentiment analysis with Jane Austen </br>
-      c.	Project - Sentiment analysis with hotel reviews 1/2 </br>
+      a.	Learn the basics about NLP by building a simple bot [chatbolt.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/chatbolt.ipynb)</br>
+      b.	Translation and sentiment analysis with Jane Austen [Jane Austen's Pride and Prejudice.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Jane%20Austen's%20Pride%20and%20Prejudice.ipynb)</br>
+      c.	Project - Sentiment analysis with hotel reviews 1/2 - [Sentiment Analysis-1](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Sentiment%20analysis%201.ipynb)
+[Sentiment Analysis-1](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Sentiment%20analysis%202.ipynb) </br>
 8.	Time series forecasting 
     * Project -Power usage data
       a. Introduction to Time Series data </br>
       b. Time series forecasting with ARIMA </br>
-      b.	Time series forecasting with Support Vector Regressor </br>
+      b.	Time series forecasting with Support Vector Regressor [Time_series_Analysis.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Time_series_Analysis.ipynb)</br>
 9.	reinforcement learning   
       a.	Reinforcement learning with Q-Learning </br>
       b.	Reinforcement learning Gym </br>

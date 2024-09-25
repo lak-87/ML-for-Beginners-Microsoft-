@@ -11,13 +11,13 @@ The topics covered
       d. Build a web app usinf flask - [Webapp](https://github.com/lak-87/ML-for-Beginners-Microsoft-/tree/main/webApp)
 4.	Classification
      * Project - Delicious Asian and Indian Cuisines </br>
-      a.	Clean, preprocess, balance data (SMOTE) and visualize data
-      b. Apply various classification methods - logistic regression, Linear SVC, K-Neighbors, Support-Vector classifiers and Ensemble Classifiers </br>
+      a.	Clean, preprocess, balance data (SMOTE) and visualize data </br>
+      b. Apply various classification methods - logistic regression, Linear SVC, K-Neighbors, Support-Vector classifiers and Ensemble Classifiers [Classification.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Classification.ipynb)</br>
 5.	Clustering
      * Project - Nigerian Songs</br>
       a. Introduction to Clustering </br>
       b. Clean, preprocess, and visualize data </br>
-      b.	Explore the K-Means clustering method </br>
+      b.	Explore the K-Means clustering method [Clustering.ipynb](https://github.com/lak-87/ML-for-Beginners-Microsoft-/blob/main/Clustering.ipynb)</br>
 6.	Introduction to natural language processing
       a.	Learn the basics about NLP by building a simple bot </br>
       b.	Translation and sentiment analysis with Jane Austen </br>
